@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Celarion
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Celarion helpt EMS-partijen met zelfleverancierschap van elektriciteit. In marktonderzoek-modus.
+intro_image: "images/stack-diagram.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Celarion - Zelflevering voor EMS-bedrijven
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Celarion helpt EMS-partijen met zelfleverancierschap van elektriciteit. In marktonderzoek-modus.
