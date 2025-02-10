@@ -1,14 +1,14 @@
-baseurl: '/'
+baseurl: '/celarion/'
 permalink: pretty
 title: 'Jekyll Serif'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/logo-no-bg.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop: "images/logo/banner-no-bg.svg"
+  desktop_height: "52px"
+  desktop_width: "126px"
 
 home: 
   limit_services: 6
