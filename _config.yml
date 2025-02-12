@@ -1,6 +1,6 @@
-baseurl: '/celarion/'
+baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Celarion'
 
 logo:
   mobile: "images/logo/logo-no-bg.png"
