@@ -5,4 +5,4 @@ description: About
 bodyClass: page-about
 ---
 
-Under construction...
+Een kersverse dienstverlener in de energiesector, opgericht in 2025.

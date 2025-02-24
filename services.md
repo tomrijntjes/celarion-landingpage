@@ -1,12 +1,12 @@
 ---
-title: Services
+title: Dienstverlening
 layout: services
-description: Services
-intro_image: "images/stack-diagram.png"
+description: Dienstverlening
+intro_image: "images/get-connected.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-# Services
+# Dienstverlening
 
-Under construction...
+Een overzicht van onze diensten.
